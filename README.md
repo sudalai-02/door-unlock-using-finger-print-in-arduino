@@ -84,4 +84,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to adjust or expand upon any sections based on your specific implementation or additional features of your project!
